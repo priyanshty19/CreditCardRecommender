@@ -60,3 +60,4 @@ This project marks the beginning of an innovative venture aimed at simplifying f
 
 4. **Phase 4: User Interface**
    - Build a dashboard for users to explore recommendations and input preferences.
+---
